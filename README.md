@@ -14,3 +14,6 @@ Multi-treaded Brute Force for Insagram
 # How to run
 - cd AlfaBruteForce
 - ./AlfaBruteForce.sh
+
+# Notes
+- To use a diffrent password lsit make sure that it is located in the AlfaBruteForce folder
