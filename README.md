@@ -2,7 +2,7 @@
 Multi-treaded Brute Force for Insagram
 
 
-Install requirements
+# Install requirements
 git clone https://github.com/Nathan-Simmons/AlfaBruteForce.git
 cd AlfaBruteForce
 chmod +x setup.sh
