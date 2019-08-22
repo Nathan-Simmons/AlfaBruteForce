@@ -9,3 +9,8 @@ Multi-treaded Brute Force for Insagram
  - sudo ./setup.sh
  - chmod +x AlfaBruteForce.sh
  - sudo ./AlfaBruteForce.sh
+
+
+# How to run
+- cd AlfaBruteForce
+- ./AlfaBruteForce.sh
